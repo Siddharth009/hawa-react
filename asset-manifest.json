@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/git@github.com:Siddharth009/hawa-react.git/static/css/main.55c1043d.chunk.css",
-    "main.js": "/git@github.com:Siddharth009/hawa-react.git/static/js/main.cbfbff07.chunk.js",
-    "main.js.map": "/git@github.com:Siddharth009/hawa-react.git/static/js/main.cbfbff07.chunk.js.map",
-    "runtime-main.js": "/git@github.com:Siddharth009/hawa-react.git/static/js/runtime-main.32bf5fda.js",
-    "runtime-main.js.map": "/git@github.com:Siddharth009/hawa-react.git/static/js/runtime-main.32bf5fda.js.map",
-    "static/css/2.b8b3bc4e.chunk.css": "/git@github.com:Siddharth009/hawa-react.git/static/css/2.b8b3bc4e.chunk.css",
-    "static/js/2.3c8bb370.chunk.js": "/git@github.com:Siddharth009/hawa-react.git/static/js/2.3c8bb370.chunk.js",
-    "static/js/2.3c8bb370.chunk.js.map": "/git@github.com:Siddharth009/hawa-react.git/static/js/2.3c8bb370.chunk.js.map",
-    "index.html": "/git@github.com:Siddharth009/hawa-react.git/index.html",
-    "precache-manifest.d64011c6010e5606b476ef90c967cd8e.js": "/git@github.com:Siddharth009/hawa-react.git/precache-manifest.d64011c6010e5606b476ef90c967cd8e.js",
-    "service-worker.js": "/git@github.com:Siddharth009/hawa-react.git/service-worker.js",
-    "static/css/2.b8b3bc4e.chunk.css.map": "/git@github.com:Siddharth009/hawa-react.git/static/css/2.b8b3bc4e.chunk.css.map",
-    "static/css/main.55c1043d.chunk.css.map": "/git@github.com:Siddharth009/hawa-react.git/static/css/main.55c1043d.chunk.css.map",
-    "static/js/2.3c8bb370.chunk.js.LICENSE.txt": "/git@github.com:Siddharth009/hawa-react.git/static/js/2.3c8bb370.chunk.js.LICENSE.txt"
+    "main.css": "/hawa-react/static/css/main.55c1043d.chunk.css",
+    "main.js": "/hawa-react/static/js/main.55047e75.chunk.js",
+    "main.js.map": "/hawa-react/static/js/main.55047e75.chunk.js.map",
+    "runtime-main.js": "/hawa-react/static/js/runtime-main.f8432d76.js",
+    "runtime-main.js.map": "/hawa-react/static/js/runtime-main.f8432d76.js.map",
+    "static/css/2.b8b3bc4e.chunk.css": "/hawa-react/static/css/2.b8b3bc4e.chunk.css",
+    "static/js/2.3c8bb370.chunk.js": "/hawa-react/static/js/2.3c8bb370.chunk.js",
+    "static/js/2.3c8bb370.chunk.js.map": "/hawa-react/static/js/2.3c8bb370.chunk.js.map",
+    "index.html": "/hawa-react/index.html",
+    "precache-manifest.45f17dceceb7befb6b1fe07c5f2c3d70.js": "/hawa-react/precache-manifest.45f17dceceb7befb6b1fe07c5f2c3d70.js",
+    "service-worker.js": "/hawa-react/service-worker.js",
+    "static/css/2.b8b3bc4e.chunk.css.map": "/hawa-react/static/css/2.b8b3bc4e.chunk.css.map",
+    "static/css/main.55c1043d.chunk.css.map": "/hawa-react/static/css/main.55c1043d.chunk.css.map",
+    "static/js/2.3c8bb370.chunk.js.LICENSE.txt": "/hawa-react/static/js/2.3c8bb370.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32bf5fda.js",
+    "static/js/runtime-main.f8432d76.js",
     "static/css/2.b8b3bc4e.chunk.css",
     "static/js/2.3c8bb370.chunk.js",
     "static/css/main.55c1043d.chunk.css",
-    "static/js/main.cbfbff07.chunk.js"
+    "static/js/main.55047e75.chunk.js"
   ]
 }
